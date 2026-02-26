@@ -1,0 +1,58 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: sek.es
+ * Generated: 2026-02-26T18:39:16.630Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-fff: #fff; /* 129x */
+  --sm-color-brand-primary: #253746; /* 50x */
+  --sm-color-brand-accent: #ff5f00; /* 90x */
+  --sm-color-brand-background: #ffffff; /* 60x */
+  --sm-color-brand-textprimary: #263746; /* 20x */
+  --sm-color-eaeaea: #eaeaea; /* 14x */
+  --sm-color-cd9700: #cd9700; /* 11x */
+  --sm-color-000: #000; /* 7x */
+  --sm-color-f03: #f03; /* 7x */
+  --sm-color-979797: #979797; /* 6x */
+  --sm-color-1e2d39: #1e2d39; /* 6x */
+  --sm-color-4b4b4b: #4b4b4b; /* 1x */
+  --sm-color-7d7d7d: #7d7d7d; /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Source Sans Pro; /* 120x */
+  --sm-font-family-2: Montserrat; /* 120x */
+  --sm-font-body-3: 11px; /* 60x */
+  --sm-font-size-4: 28px; /* 42x */
+  --sm-font-heading-5: 42px; /* 30x */
+  --sm-font-heading-6: 40px; /* 20x */
+  --sm-font-family-7: Droid Serif; /* 20x */
+  --sm-font-heading-8: 36px; /* 20x */
+  --sm-font-heading-9: 30px; /* 20x */
+  --sm-font-size-10: 33px; /* 1x */
+  --sm-font-size-11: 20px; /* 1x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 60x */
+  --sm-spacing-xs-1: 0px; /* 7x */
+  --sm-spacing-md: 12px; /* 6x */
+  --sm-spacing-xl: 30px 0px 0px 10px; /* 1x */
+  --sm-spacing-xl-4: 30px 30px; /* 1x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 4px; /* 60x */
+  --sm-radius-2: 22px; /* 30x */
+
+}
